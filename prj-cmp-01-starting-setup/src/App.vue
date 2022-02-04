@@ -6,9 +6,9 @@
 
 <script>
 import LearningResources from './components/learning-resources/LearningResources.vue';
-import LearningResources from './components/learning-resources/LearningResources.vue';
 export default {
   components: { LearningResources },
+
   data() {
     return {
       storedResources: [
